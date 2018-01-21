@@ -5,7 +5,7 @@ public class IfExample {
             System.out.println("Age is greater than 18");
         }
         else
-            System.out.println("Age is Less");
+            System.out.println("Age is Less"); /*comment*/
 
     }
 
